@@ -1,0 +1,25 @@
+---
+layout: default
+
+# Found include MD approach at https://github.com/jekyll/jekyll/issues/1303
+---
+
+<div class="home">
+
+
+  {% capture summary %}{% include_relative resume/summary.md %}{% endcapture %}
+  {{ summary | markdownify }}
+
+  {% capture experience %}{% include_relative resume/experience.md %}{% endcapture %}
+  {{ experience | markdownify }}
+
+  {% capture education %}{% include_relative resume/education.md %}{% endcapture %}
+  {{ education | markdownify }}
+
+  {% capture skills %}{% include_relative resume/skills.md %}{% endcapture %}
+  {{ skills | markdownify }}
+
+  {% capture other %}{% include_relative resume/other.md %}{% endcapture %}
+  {{ other | markdownify }}
+
+</div>
