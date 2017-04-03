@@ -12,5 +12,6 @@
 ## Mentoring
 
 - Technical mentor of 3 IBM Extreme Blue Summer Internship projects
+- Coordinated 2016 Chatbot Hack-a-thon as a team-wide education effort
 - Mentor of early inventors in IBM
 - Robotics mentor of 1st-3rd graders at Magellan International School, Austin TX
