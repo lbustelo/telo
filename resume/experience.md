@@ -2,7 +2,7 @@
 #### SENIOR TECHNICAL STAFF MEMBER, IBM; AUSTIN, TX — 2012–PRESENT
 Involved in the investigation of areas related to **Big Data**, **analytics** and **Machine Learning**. Lead the inception, architecture, staffing and implementation of several projects. Here are some of the highlights:
 
-**Blackbox** is a platform built for application developers to define micro-services the are backed by **Machine Learning** models and inform through feedback data. The system orchestrates a **[Kaggle](https://www.kaggle.com/)**-like competition where a variety of ML pipelines, running in **Docker** containers, compete in providing the best model. The best model is deployed into production automatically without any developer interaction.
+**Blackbox** is a platform built for application developers to define micro-services the are backed by **Machine Learning** models and learn through feedback data. The system orchestrates a **[Kaggle](https://www.kaggle.com/)**-like competition, where a variety of ML pipelines, running in **Docker** containers, compete to provide the best model. The winning model is automatically deployed into production without the developer’s intervention.
 
 Organized a **Chat-bot** Hack-athon. Built a **Slack** based game around the Giphy command. Built a bot that integrated with Github to enable participants to register and vote for ideas. Built a tamagotchi-style bot that used **[Wit.ai](https://wit.ai/)** to interpret users intent.
 
