@@ -4,7 +4,7 @@ Involved in the investigation of areas related to **Big Data**, **analytics** an
 
 **Blackbox** is a platform built for application developers to define micro-services the are backed by **Machine Learning** models and learn through feedback data. The system orchestrates a **[Kaggle](https://www.kaggle.com/)**-like competition, where a variety of ML pipelines, running in **Docker** containers, compete to provide the best model. The winning model is automatically deployed into production without the developer’s intervention.
 
-Organized a **Chat-bot** Hack-athon. Built a **Slack** based game around the Giphy command. Built a bot that integrated with Github to enable participants to register and vote for ideas. Built a tamagotchi-style bot that used **[Wit.ai](https://wit.ai/)** to interpret users intent.
+Organized a **Chat-bot** Hack-athon as a team-wide skill building event. Built a **Slack** based game around the Giphy command. Built a bot that integrated with Github to enable participants to register and vote for ideas. Built a tamagotchi-style bot that uses **[Wit.ai](https://wit.ai/)** to interpret users intent.
 
 **[Jupyter](http://jupyter.org/)** Dashboards and Widgets are a set of extensions to the Jupyter Notebook that allows the user to transform a code-filled notebook into an interactive application or dashboards. Created a declarative way of creating visual and data widgets that using **[Polymer](https://www.polymer-project.org/)** and backed by **Python**, **Scala** and **R** implementations. More information at [https://github.com/jupyter-widgets/declarativewidgets](https://github.com/jupyter-widgets/declarativewidgets).
 
