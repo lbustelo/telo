@@ -1,8 +1,8 @@
 ## Awards
 
 - Master Inventor, IBM (2011-present) - 4 plateaus, 9 US patents issued
-- Outstanding Technical Achievement Award, IBM (2007)
-- Open Source Contribution Award, IBM (2015, 2013, 2012, 2007)
+- Outstanding Technical Achievement Award, IBM (2015, 2013, 2012, 2007)
+- Open Source Contribution Award, IBM (2016)
 - Retention Incentive Award for Top contributions, IBM (2016, 2014, 2013, 2006)
 - Stock Option Award for Top contributions, IBM (2005)
 - Outstanding Innovation Award, IBM (2005)
