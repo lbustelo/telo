@@ -1,4 +1,4 @@
-PHONY: help init dev
+PHONY: help init dev build clean
 
 help:
 # http://marmelab.com/blog/2016/02/29/auto-documented-makefile.html
@@ -6,6 +6,12 @@ help:
 
 init: ## Install dependencies
 	bundle install
+
+clean: ## Wipe the _site directory
+	@rm -rf _site
+
+build: ## Build site
+	bundle exec jekyll build
 
 dev: ## Run jekyll in watch mode
 	bundle exec jekyll serve
