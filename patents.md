@@ -6,7 +6,7 @@ permalink: /patents/
 # String filters from https://help.shopify.com/themes/liquid/filters/string-filters
 ---
 {% for patent in site.data.patents %}
-  <h3 class="post-title"><a href="{{patent['result link']}}">{{ patent.title | truncatewords: 7}}</a></h3>
+  <h4 class="post-title"><a href="{{patent['result link']}}">{{ patent.title | truncatewords: 7}}</a></h4>
   <p class="post-meta">
   <a href="{{patent['result link']}}">{{ patent.id }}</a> • Leugim A. Bustelo, et al • {{patent.assignee}}
   </p>
