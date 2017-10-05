@@ -1,6 +1,8 @@
 ## Experience
 #### SENIOR TECHNICAL STAFF MEMBER, IBM; AUSTIN, TX — 2012–PRESENT
-Involved in the investigation of areas related to **Big Data**, **analytics** and **Machine Learning**. Lead the inception, architecture, staffing and implementation of several projects. Here are some of the highlights:
+Focus areas include **Data analytics**, **Machine Learning**, **Cloud architecture**, and **DevOps**. Lead the inception, architecture, staffing and implementation of several projects. Here are some of the highlights:
+
+**Fast Data for Business** is a collection of cloud infrastructure patterns informed by The Weather Company's experience in building large scale and highly available data products. These patterns are implemented using technologies like **Terraform**, **Docker**, and **Chef**, and are meant to be combined to build dedicated cloud environments for customers.
 
 **Blackbox** is a platform built for application developers to define micro-services the are backed by **Machine Learning** models and learn through feedback data. The system orchestrates a **[Kaggle](https://www.kaggle.com/)**-like competition, where a variety of ML pipelines, running in **Docker** containers, compete to provide the best model. The winning model is automatically deployed into production without the developer’s intervention.
 
