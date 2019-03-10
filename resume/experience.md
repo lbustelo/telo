@@ -1,5 +1,8 @@
 ## Experience
-#### SENIOR TECHNICAL STAFF MEMBER, IBM; AUSTIN, TX — 2012–PRESENT
+#### SOFTWARE ARCHITECT, TALROO; AUSTIN, TX — 2018–PRESENT
+End-to-End ownership of **Data products**, including design and architecture, implementation, deployment automation, and operations. Products range from Data Warehouse ETL, data collection endpoints, personalization and machine learning. Using **AWS** API Gateway, Cognito, AWS **Lambda**, DynamoDB, Kinesis, S3, Cloudwatch, **CloudFormation**, Ansible, **Docker**, Python, **Spark** on Databricks, Azure Pipelines, among others.
+
+#### SENIOR TECHNICAL STAFF MEMBER, IBM; AUSTIN, TX — 2012–2018
 Focus areas include **Data analytics**, **Machine Learning**, **Cloud architecture**, and **DevOps**. Lead the inception, architecture, staffing and implementation of several projects. Here are some of the highlights:
 
 **Fast Data for Business** is a collection of cloud infrastructure patterns informed by The Weather Company's experience in building large scale and highly available data products. These patterns are implemented using technologies like **Terraform**, **Docker**, and **Chef**, and are meant to be combined to build dedicated cloud environments for customers.
